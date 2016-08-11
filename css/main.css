@@ -952,7 +952,7 @@ header .logo a {
 .main-content h1::before {
 	content: "";
 	display: block;
-	background: #c25d02;
+	background: #;
 	width: 120px;
 	height: 3px;
 	position: absolute;
