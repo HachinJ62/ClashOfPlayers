@@ -952,8 +952,8 @@ header .logo a {
 .main-content h1::before {
 	content: "";
 	display: block;
-	background: #t5t5t5;
-	width: 1220px;
+	background: #;
+	width: 120px;
 	height: 3px;
 	position: absolute;
 	top: 0;
