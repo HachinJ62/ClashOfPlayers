@@ -83,7 +83,7 @@ a, a:visited {
 	transition: all 0.3s ease-in-out;
 }
 a:hover, a:focus {
-	color: #c25d02;
+	color: #e6e6e6;
 }
 
 /** 
