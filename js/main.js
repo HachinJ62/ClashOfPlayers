@@ -103,8 +103,8 @@
 		transitionDuration: 2500,
 		delay: 5000,
     	slides: [
-       	{ src: "images/slides/001.jpg" },
-        	{ src: "images/slides/002.jpg" },
+       	{ src: "images/001.jpg" },
+        	{ src: "images/002.jpg" },
         	
     	]
 	});
