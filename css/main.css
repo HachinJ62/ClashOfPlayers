@@ -83,7 +83,7 @@ a, a:visited {
 	transition: all 0.3s ease-in-out;
 }
 a:hover, a:focus {
-	color: #rgba(255, 255, 255, 0.2);
+	color: rgba(255, 255, 255, 0.2);
 }
 
 /** 
